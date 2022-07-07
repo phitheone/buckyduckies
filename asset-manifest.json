@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buckyduckies/static/css/main.d4f051b6.css",
+    "main.js": "/buckyduckies/static/js/main.97ebf78c.js",
+    "index.html": "/buckyduckies/index.html",
+    "main.d4f051b6.css.map": "/buckyduckies/static/css/main.d4f051b6.css.map",
+    "main.97ebf78c.js.map": "/buckyduckies/static/js/main.97ebf78c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f051b6.css",
+    "static/js/main.97ebf78c.js"
+  ]
+}
