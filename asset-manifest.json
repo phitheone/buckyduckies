@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.67c956b4.css",
-    "main.js": "/static/js/main.9758210c.js",
+    "main.css": "/static/css/main.6b69a4f0.css",
+    "main.js": "/static/js/main.12ff33c5.js",
     "static/media/heroraw.png": "/static/media/heroraw.1eb52aa70bbc404492bd.png",
     "static/media/herosmaller.png": "/static/media/herosmaller.846f2a7a16e95e1776dd.png",
     "static/media/herosmall.png": "/static/media/herosmall.d56e9dc05d26fcafbc18.png",
@@ -13,21 +13,24 @@
     "static/media/7.png": "/static/media/7.dfcdc6872a539d54bdf5.png",
     "static/media/4.png": "/static/media/4.52f3b839fc6ee943f37b.png",
     "static/media/8.png": "/static/media/8.2085e443e172feed15a9.png",
+    "static/media/fondobenefits.png": "/static/media/fondobenefits.c6172da7ad4b5208a8b5.png",
     "static/media/791.png": "/static/media/791.8aa82224ce1375727dc5.png",
     "static/media/6.png": "/static/media/6.9b2750f85e689da3ac99.png",
     "static/media/2.png": "/static/media/2.f1af47143baf5454efd4.png",
     "static/media/5.png": "/static/media/5.94fd6ab8ddcd5590c36e.png",
+    "static/media/fondoabout.png": "/static/media/fondoabout.dc8e8dbb473447c137c6.png",
     "static/media/apple.png": "/static/media/apple.c07c407e79518955a5fd.png",
     "static/media/logo.png": "/static/media/logo.4c4c17a2170036130eaf.png",
+    "static/media/fondoroadmap.png": "/static/media/fondoroadmap.912c5d23d4d8857c72e5.png",
     "static/media/gitbook.png": "/static/media/gitbook.0119fdf717260b60a850.png",
     "static/media/discord2.svg": "/static/media/discord2.2a3fc971c55ff31aa33b942e24c26b79.svg",
     "static/media/twitter2.svg": "/static/media/twitter2.c14350315e920f7a2f865ffa0ccbaadb.svg",
     "index.html": "/index.html",
-    "main.67c956b4.css.map": "/static/css/main.67c956b4.css.map",
-    "main.9758210c.js.map": "/static/js/main.9758210c.js.map"
+    "main.6b69a4f0.css.map": "/static/css/main.6b69a4f0.css.map",
+    "main.12ff33c5.js.map": "/static/js/main.12ff33c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c956b4.css",
-    "static/js/main.9758210c.js"
+    "static/css/main.6b69a4f0.css",
+    "static/js/main.12ff33c5.js"
   ]
 }
