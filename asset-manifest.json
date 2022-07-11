@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ea362d5.css",
-    "main.js": "/static/js/main.3e4fabea.js",
-    "static/media/bg1.png": "/static/media/bg1.1408a79a87d609cfffa8.png",
+    "main.css": "/static/css/main.71cf3d8e.css",
+    "main.js": "/static/js/main.a328aed6.js",
+    "static/media/heroraw.png": "/static/media/heroraw.1eb52aa70bbc404492bd.png",
+    "static/media/herosmaller.png": "/static/media/herosmaller.846f2a7a16e95e1776dd.png",
+    "static/media/herosmall.png": "/static/media/herosmall.d56e9dc05d26fcafbc18.png",
     "static/media/3.png": "/static/media/3.a2e705b8fd294a18cd0d.png",
     "static/media/10.png": "/static/media/10.5164c4b42cdc260d869f.png",
     "static/media/map.png": "/static/media/map.4a8fae1343017c8fc85a.png",
@@ -21,11 +23,11 @@
     "static/media/discord2.svg": "/static/media/discord2.2a3fc971c55ff31aa33b942e24c26b79.svg",
     "static/media/twitter2.svg": "/static/media/twitter2.c14350315e920f7a2f865ffa0ccbaadb.svg",
     "index.html": "/index.html",
-    "main.3ea362d5.css.map": "/static/css/main.3ea362d5.css.map",
-    "main.3e4fabea.js.map": "/static/js/main.3e4fabea.js.map"
+    "main.71cf3d8e.css.map": "/static/css/main.71cf3d8e.css.map",
+    "main.a328aed6.js.map": "/static/js/main.a328aed6.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea362d5.css",
-    "static/js/main.3e4fabea.js"
+    "static/css/main.71cf3d8e.css",
+    "static/js/main.a328aed6.js"
   ]
 }
