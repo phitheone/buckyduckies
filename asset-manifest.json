@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.be64e06b.css",
-    "main.js": "/static/js/main.bc87be18.js",
-    "static/media/heroraw.png": "/static/media/heroraw.1eb52aa70bbc404492bd.png",
-    "static/media/herosmaller.png": "/static/media/herosmaller.846f2a7a16e95e1776dd.png",
-    "static/media/herosmall.png": "/static/media/herosmall.d56e9dc05d26fcafbc18.png",
+    "main.css": "/static/css/main.29a87001.css",
+    "main.js": "/static/js/main.9cc8c123.js",
+    "static/media/heroraw.png": "/static/media/heroraw.44286ed5155a3959632f.png",
+    "static/media/herosmall.png": "/static/media/herosmall.ecddbb0efcddc7431c97.png",
+    "static/media/herosmaller.png": "/static/media/herosmaller.5577e44b8cd2ee19cdf0.png",
     "static/media/3.png": "/static/media/3.a2e705b8fd294a18cd0d.png",
     "static/media/10.png": "/static/media/10.5164c4b42cdc260d869f.png",
     "static/media/map.png": "/static/media/map.4a8fae1343017c8fc85a.png",
@@ -26,11 +26,11 @@
     "index.html": "/index.html",
     "static/media/discord2.svg": "/static/media/discord2.2a3fc971c55ff31aa33b942e24c26b79.svg",
     "static/media/twitter2.svg": "/static/media/twitter2.c14350315e920f7a2f865ffa0ccbaadb.svg",
-    "main.be64e06b.css.map": "/static/css/main.be64e06b.css.map",
-    "main.bc87be18.js.map": "/static/js/main.bc87be18.js.map"
+    "main.29a87001.css.map": "/static/css/main.29a87001.css.map",
+    "main.9cc8c123.js.map": "/static/js/main.9cc8c123.js.map"
   },
   "entrypoints": [
-    "static/css/main.be64e06b.css",
-    "static/js/main.bc87be18.js"
+    "static/css/main.29a87001.css",
+    "static/js/main.9cc8c123.js"
   ]
 }
