@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.be64e06b.css",
-    "main.js": "/static/js/main.2be31916.js",
+    "main.js": "/static/js/main.bc87be18.js",
     "static/media/heroraw.png": "/static/media/heroraw.1eb52aa70bbc404492bd.png",
     "static/media/herosmaller.png": "/static/media/herosmaller.846f2a7a16e95e1776dd.png",
     "static/media/herosmall.png": "/static/media/herosmall.d56e9dc05d26fcafbc18.png",
@@ -23,14 +23,14 @@
     "static/media/logo.png": "/static/media/logo.4c4c17a2170036130eaf.png",
     "static/media/fondoroadmap.png": "/static/media/fondoroadmap.912c5d23d4d8857c72e5.png",
     "static/media/gitbook.png": "/static/media/gitbook.0119fdf717260b60a850.png",
+    "index.html": "/index.html",
     "static/media/discord2.svg": "/static/media/discord2.2a3fc971c55ff31aa33b942e24c26b79.svg",
     "static/media/twitter2.svg": "/static/media/twitter2.c14350315e920f7a2f865ffa0ccbaadb.svg",
-    "index.html": "/index.html",
     "main.be64e06b.css.map": "/static/css/main.be64e06b.css.map",
-    "main.2be31916.js.map": "/static/js/main.2be31916.js.map"
+    "main.bc87be18.js.map": "/static/js/main.bc87be18.js.map"
   },
   "entrypoints": [
     "static/css/main.be64e06b.css",
-    "static/js/main.2be31916.js"
+    "static/js/main.bc87be18.js"
   ]
 }
