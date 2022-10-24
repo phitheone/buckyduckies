@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.29a87001.css",
-    "main.js": "/static/js/main.83b88bcb.js",
+    "main.css": "/static/css/main.7f0f8ba0.css",
+    "main.js": "/static/js/main.67667b46.js",
     "static/media/heroraw.png": "/static/media/heroraw.44286ed5155a3959632f.png",
     "static/media/herosmall.png": "/static/media/herosmall.ecddbb0efcddc7431c97.png",
     "static/media/herosmaller.png": "/static/media/herosmaller.5577e44b8cd2ee19cdf0.png",
+    "static/media/Raffle_1.png": "/static/media/Raffle_1.aed6700efdc8def08c90.png",
+    "static/media/Profile_Final_1.png": "/static/media/Profile_Final_1.48a6959943b4419d221d.png",
+    "static/media/workduck.png": "/static/media/workduck.1a0c24f95dc265e84ac8.png",
     "static/media/3.png": "/static/media/3.a2e705b8fd294a18cd0d.png",
+    "static/media/Staking_1.png": "/static/media/Staking_1.7607b44ebe86c3a1d7cc.png",
     "static/media/10.png": "/static/media/10.5164c4b42cdc260d869f.png",
     "static/media/map.png": "/static/media/map.4a8fae1343017c8fc85a.png",
     "static/media/1.png": "/static/media/1.c942bd96be26126c2344.png",
@@ -18,7 +22,11 @@
     "static/media/6.png": "/static/media/6.9b2750f85e689da3ac99.png",
     "static/media/2.png": "/static/media/2.f1af47143baf5454efd4.png",
     "static/media/5.png": "/static/media/5.94fd6ab8ddcd5590c36e.png",
+    "static/media/fondorarity2.png": "/static/media/fondorarity2.ec87d9744f4fdf136358.png",
     "static/media/fondoabout.png": "/static/media/fondoabout.dc8e8dbb473447c137c6.png",
+    "static/media/fondorarity3.png": "/static/media/fondorarity3.fb843ff310fc365ff006.png",
+    "static/media/fondoutils.png": "/static/media/fondoutils.19b7ecbd1c77fb8d0dfd.png",
+    "static/media/fondorarity1.png": "/static/media/fondorarity1.ceef94d678ea86f45409.png",
     "static/media/apple.png": "/static/media/apple.c07c407e79518955a5fd.png",
     "static/media/logo.png": "/static/media/logo.4c4c17a2170036130eaf.png",
     "static/media/fondoroadmap.png": "/static/media/fondoroadmap.912c5d23d4d8857c72e5.png",
@@ -26,11 +34,11 @@
     "index.html": "/index.html",
     "static/media/discord2.svg": "/static/media/discord2.2a3fc971c55ff31aa33b942e24c26b79.svg",
     "static/media/twitter2.svg": "/static/media/twitter2.c14350315e920f7a2f865ffa0ccbaadb.svg",
-    "main.29a87001.css.map": "/static/css/main.29a87001.css.map",
-    "main.83b88bcb.js.map": "/static/js/main.83b88bcb.js.map"
+    "main.7f0f8ba0.css.map": "/static/css/main.7f0f8ba0.css.map",
+    "main.67667b46.js.map": "/static/js/main.67667b46.js.map"
   },
   "entrypoints": [
-    "static/css/main.29a87001.css",
-    "static/js/main.83b88bcb.js"
+    "static/css/main.7f0f8ba0.css",
+    "static/js/main.67667b46.js"
   ]
 }
